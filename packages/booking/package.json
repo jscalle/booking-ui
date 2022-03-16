@@ -25,7 +25,7 @@
     "url": "git+https://github.com/Wiliberto/booking-ui.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1",
+    "test": "jest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
